@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "jsonName": "dev-404-page-5f9",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/migs/Sites/matthewhigley/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Users/migs/Sites/matthewhigley/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6e3029c739b82ac04e0d09f428c518a0",
-        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -1385,16 +1375,14 @@
         "description": "Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.",
         "author": "@gatsbyjs"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-03-27T21:21:33.337Z",
+      "buildTime": "2019-03-27T21:35:45.435Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "0cb0b60cc769d67bc1d01368fa95f4dd",
+        "contentDigest": "5852172afc9c4595714e24ea553b3757",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1404,7 +1392,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "338d052c782957ed10ba48e473ac8aa1",
+        "contentDigest": "580cb26f33d2546b9e18846240a00886",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1416,7 +1404,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2019-03-27T18:37:18.934Z",
-      "accessTime": "2019-03-27T21:21:39.132Z",
+      "accessTime": "2019-03-27T21:35:47.360Z",
       "changeTime": "2019-03-27T21:20:47.955Z",
       "birthTime": "2019-03-27T17:30:07.619Z",
       "root": "/",
@@ -1434,11 +1422,11 @@
       "blksize": 4096,
       "ino": 10765213,
       "blocks": 0,
-      "atimeMs": 1553721699131.5042,
+      "atimeMs": 1553722547359.6128,
       "mtimeMs": 1553711838934.4304,
       "ctimeMs": 1553721647955.043,
       "birthtimeMs": 1553707807619.2913,
-      "atime": "2019-03-27T21:21:39.132Z",
+      "atime": "2019-03-27T21:35:47.360Z",
       "mtime": "2019-03-27T18:37:18.934Z",
       "ctime": "2019-03-27T21:20:47.955Z",
       "birthtime": "2019-03-27T17:30:07.619Z"
@@ -1706,20 +1694,16 @@
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "sq--src-components-layout-js",
-        "sq--src-components-seo-js"
+        "sq--src-components-seo-js",
+        "sq--src-components-layout-js"
       ],
-      "2d0670cc-8a7e-5bc8-97e1-b32eb1e644a3": [
-        "sq--src-components-image-js"
-      ],
+      "2d0670cc-8a7e-5bc8-97e1-b32eb1e644a3": [],
       "4069c0e2-043d-507c-a1f7-66c3c1950301": [
-        "sq--src-components-layout-js"
-      ],
-      "c6f97b0b-33fa-5d02-9e1f-b818c257f2dc": [
         "sq--src-components-image-js"
       ],
+      "c6f97b0b-33fa-5d02-9e1f-b818c257f2dc": [],
       "32800b71-06cc-550f-9d52-b18acdabe6fc": [
-        "sq--src-components-layout-js"
+        "sq--src-components-image-js"
       ]
     },
     "connections": {}
@@ -1731,18 +1715,10 @@
     "index": "140/path---index-6a9-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "page-2-fbc": "726/path---page-2-fbc-5a8-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "sq--src-components-layout-js": 2726952558,
-    "sq--src-components-image-js": 2011440971
+    "sq--src-components-layout-js": 1096028375,
+    "sq--src-components-image-js": 2829056681
   },
   "components": {
-    "/Users/migs/Sites/matthewhigley/.cache/dev-404-page.js": {
-      "componentPath": "/Users/migs/Sites/matthewhigley/.cache/dev-404-page.js",
-      "query": "",
-      "pages": [
-        "/dev-404-page/"
-      ],
-      "isInBootstrap": true
-    },
     "/Users/migs/Sites/matthewhigley/src/pages/404.js": {
       "componentPath": "/Users/migs/Sites/matthewhigley/src/pages/404.js",
       "query": "",
@@ -1771,20 +1747,20 @@
   },
   "staticQueryComponents": {
     "sq--src-components-image-js": {
-      "name": "usersMigsSitesMatthewhigleySrcComponentsImageJs2011440971",
+      "name": "usersMigsSitesMatthewhigleySrcComponentsImageJs2829056681",
       "componentPath": "/Users/migs/Sites/matthewhigley/src/components/image.js",
       "id": "sq--src-components-image-js",
       "jsonName": "sq--src-components-image-js",
-      "query": "query usersMigsSitesMatthewhigleySrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
-      "hash": 2011440971
+      "query": "query usersMigsSitesMatthewhigleySrcComponentsImageJs2829056681 {\n  backgroundImage: file(relativePath: {eq: \"background-image.jpg\"}) {\n    childImageSharp {\n      fluid(maxWidth: 1000) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 2829056681
     },
     "sq--src-components-layout-js": {
       "name": "SiteQuery",
       "componentPath": "/Users/migs/Sites/matthewhigley/src/components/layout.js",
       "id": "sq--src-components-layout-js",
       "jsonName": "sq--src-components-layout-js",
-      "query": "query SiteQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n  backgroundImage: file(relativePath: {eq: \"background-image.jpg\"}) {\n    ...fluidImage\n  }\n}\n\nfragment fluidImage on File {\n  childImageSharp {\n    fluid(maxWidth: 1400) {\n      ...GatsbyImageSharpFluid\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
-      "hash": 2726952558
+      "query": "query SiteQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 1096028375
     },
     "sq--src-components-seo-js": {
       "name": "usersMigsSitesMatthewhigleySrcComponentsSeoJs2417117884",

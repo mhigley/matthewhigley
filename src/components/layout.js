@@ -5,15 +5,16 @@
  * See: https://www.gatsbyjs.org/docs/static-query/
  */
 
-import React from "react"
-import PropTypes from "prop-types"
-import { StaticQuery, graphql } from "gatsby"
+import React from "react";
+import PropTypes from "prop-types";
+import { StaticQuery, graphql } from "gatsby";
 
-import "../components/fluidImageFragment"
-import Img from "gatsby-image"
+// import "../components/fluidImageFragment"
+// import Img from "gatsby-image"
+import Image from "../components/image";
 
-import Header from "./header"
-import Footer from "./footer"
+import Header from "./header";
+import Footer from "./footer";
 
 const Layout = ({ children }) => (
   <StaticQuery
@@ -24,9 +25,6 @@ const Layout = ({ children }) => (
             title
           }
         }
-        backgroundImage: file(relativePath: { eq: "background-image.jpg" }) {
-          ...fluidImage
-        }
       }
     `}
     render={data => (
@@ -34,20 +32,20 @@ const Layout = ({ children }) => (
         <Header siteTitle={data.site.siteMetadata.title} />
         <main
           style={{
-            margin: `0 auto`,
+            margin: `0 auto`
           }}
         >
           {children}
           <Footer siteTitle={data.site.siteMetadata.title} />
         </main>
-        <Img fluid={data.backgroundImage.childImageSharp.fluid} />
+        <Image />
       </>
     )}
   />
-)
+);
 
 Layout.propTypes = {
-  children: PropTypes.node.isRequired,
-}
+  children: PropTypes.node.isRequired
+};
 
-export default Layout
+export default Layout;
