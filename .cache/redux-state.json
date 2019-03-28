@@ -1167,7 +1167,7 @@
       "packageJson": {
         "name": "gatsby-starter-default",
         "description": "A simple starter to get up and developing quickly with Gatsby",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "keywords": [
           "gatsby"
         ],
@@ -1369,12 +1369,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-03-28T19:05:35.279Z",
+      "buildTime": "2019-03-28T19:09:28.598Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "afe085260b9bcf1f837f0613db12ac4c",
+        "contentDigest": "baa6b228262c4b0a5704932c71b8ff0c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1384,7 +1384,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "b31867d2ffb02201555386f994f920f8",
+        "contentDigest": "cee64a648630d1c067377563ff3752d4",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1396,7 +1396,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-03-28T02:46:58.791Z",
-      "accessTime": "2019-03-28T19:05:37.642Z",
+      "accessTime": "2019-03-28T19:09:31.000Z",
       "changeTime": "2019-03-28T02:46:58.791Z",
       "birthTime": "2019-03-27T17:30:07.619Z",
       "root": "/",
@@ -1414,11 +1414,11 @@
       "blksize": 4096,
       "ino": 10765213,
       "blocks": 0,
-      "atimeMs": 1553799937641.5425,
+      "atimeMs": 1553800171000.1797,
       "mtimeMs": 1553741218791.3708,
       "ctimeMs": 1553741218791.3708,
       "birthtimeMs": 1553707807619.2913,
-      "atime": "2019-03-28T19:05:37.642Z",
+      "atime": "2019-03-28T19:09:31.000Z",
       "mtime": "2019-03-28T02:46:58.791Z",
       "ctime": "2019-03-28T02:46:58.791Z",
       "birthtime": "2019-03-27T17:30:07.619Z"
@@ -1443,7 +1443,7 @@
       "size": 4295,
       "prettySize": "4.29 kB",
       "modifiedTime": "2019-03-28T02:46:58.792Z",
-      "accessTime": "2019-03-28T19:04:34.908Z",
+      "accessTime": "2019-03-28T19:05:41.975Z",
       "changeTime": "2019-03-28T02:46:58.792Z",
       "birthTime": "2019-03-28T02:46:50.704Z",
       "root": "/",
@@ -1461,11 +1461,11 @@
       "blksize": 4096,
       "ino": 10940278,
       "blocks": 16,
-      "atimeMs": 1553799874908.485,
+      "atimeMs": 1553799941975.179,
       "mtimeMs": 1553741218792,
       "ctimeMs": 1553741218792.0198,
       "birthtimeMs": 1553741210704.0776,
-      "atime": "2019-03-28T19:04:34.908Z",
+      "atime": "2019-03-28T19:05:41.975Z",
       "mtime": "2019-03-28T02:46:58.792Z",
       "ctime": "2019-03-28T02:46:58.792Z",
       "birthtime": "2019-03-28T02:46:50.704Z"
@@ -1490,7 +1490,7 @@
       "size": 21212,
       "prettySize": "21.2 kB",
       "modifiedTime": "2019-03-27T17:30:07.620Z",
-      "accessTime": "2019-03-28T19:04:30.782Z",
+      "accessTime": "2019-03-28T19:05:37.681Z",
       "changeTime": "2019-03-27T21:20:47.955Z",
       "birthTime": "2019-03-27T17:30:07.620Z",
       "root": "/",
@@ -1508,11 +1508,11 @@
       "blksize": 4096,
       "ino": 10765216,
       "blocks": 48,
-      "atimeMs": 1553799870782.1365,
+      "atimeMs": 1553799937681.127,
       "mtimeMs": 1553707807620.307,
       "ctimeMs": 1553721647954.9524,
       "birthtimeMs": 1553707807620.1604,
-      "atime": "2019-03-28T19:04:30.782Z",
+      "atime": "2019-03-28T19:05:37.681Z",
       "mtime": "2019-03-27T17:30:07.620Z",
       "ctime": "2019-03-27T21:20:47.955Z",
       "birthtime": "2019-03-27T17:30:07.620Z"
@@ -1557,7 +1557,7 @@
       "size": 167273,
       "prettySize": "167 kB",
       "modifiedTime": "2019-03-27T17:30:07.620Z",
-      "accessTime": "2019-03-28T19:04:30.782Z",
+      "accessTime": "2019-03-28T19:05:37.681Z",
       "changeTime": "2019-03-27T21:20:47.955Z",
       "birthTime": "2019-03-27T17:30:07.619Z",
       "root": "/",
@@ -1575,11 +1575,11 @@
       "blksize": 4096,
       "ino": 10765215,
       "blocks": 328,
-      "atimeMs": 1553799870782.117,
+      "atimeMs": 1553799937681.1191,
       "mtimeMs": 1553707807620.0823,
       "ctimeMs": 1553721647954.5034,
       "birthtimeMs": 1553707807619.3313,
-      "atime": "2019-03-28T19:04:30.782Z",
+      "atime": "2019-03-28T19:05:37.681Z",
       "mtime": "2019-03-27T17:30:07.620Z",
       "ctime": "2019-03-27T21:20:47.955Z",
       "birthtime": "2019-03-27T17:30:07.619Z"
@@ -1614,7 +1614,7 @@
       "size": 338988,
       "prettySize": "339 kB",
       "modifiedTime": "2019-03-27T18:37:18.934Z",
-      "accessTime": "2019-03-28T19:04:34.137Z",
+      "accessTime": "2019-03-28T19:05:41.223Z",
       "changeTime": "2019-03-27T21:20:47.954Z",
       "birthTime": "2019-03-27T18:36:42.264Z",
       "root": "/",
@@ -1632,11 +1632,11 @@
       "blksize": 4096,
       "ino": 10765214,
       "blocks": 664,
-      "atimeMs": 1553799874137.4321,
+      "atimeMs": 1553799941222.7185,
       "mtimeMs": 1553711838934,
       "ctimeMs": 1553721647954.0308,
       "birthtimeMs": 1553711802263.6304,
-      "atime": "2019-03-28T19:04:34.137Z",
+      "atime": "2019-03-28T19:05:41.223Z",
       "mtime": "2019-03-27T18:37:18.934Z",
       "ctime": "2019-03-27T21:20:47.954Z",
       "birthtime": "2019-03-27T18:36:42.264Z"
@@ -1738,7 +1738,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "6b42a81dbe382eb4d46c2c312661e03e"
+    "PLUGINS_HASH": "b2ab824a917fb1d8c70defce8e637204"
   },
   "componentDataDependencies": {
     "nodes": {
