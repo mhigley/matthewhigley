@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "jsonName": "dev-404-page-5f9",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/migs/Sites/matthewhigley/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Users/migs/Sites/matthewhigley/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6e3029c739b82ac04e0d09f428c518a0",
-        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -1469,16 +1459,14 @@
         "description": "Portfolio site of Matthew Higley. Developer, designer and climber.",
         "author": "@mhigley"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-03-28T20:02:27.719Z",
+      "buildTime": "2019-03-28T20:19:47.717Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "ac9dd1baf4b1ba1600a240995df1259a",
+        "contentDigest": "633636e4a04feff649f552bcf0cdc96c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1488,7 +1476,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "7eacacf6386f80ab25ed49c0eb1dc1e1",
+        "contentDigest": "a4d74b5ff8fe7eb40f499e3fe3be2764",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1500,7 +1488,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-03-28T02:46:58.791Z",
-      "accessTime": "2019-03-28T20:02:31.814Z",
+      "accessTime": "2019-03-28T20:19:49.802Z",
       "changeTime": "2019-03-28T02:46:58.791Z",
       "birthTime": "2019-03-27T17:30:07.619Z",
       "root": "/",
@@ -1518,11 +1506,11 @@
       "blksize": 4096,
       "ino": 10765213,
       "blocks": 0,
-      "atimeMs": 1553803351813.5757,
+      "atimeMs": 1553804389801.552,
       "mtimeMs": 1553741218791.3708,
       "ctimeMs": 1553741218791.3708,
       "birthtimeMs": 1553707807619.2913,
-      "atime": "2019-03-28T20:02:31.814Z",
+      "atime": "2019-03-28T20:19:49.802Z",
       "mtime": "2019-03-28T02:46:58.791Z",
       "ctime": "2019-03-28T02:46:58.791Z",
       "birthtime": "2019-03-27T17:30:07.619Z"
@@ -1847,8 +1835,8 @@
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "sq--src-components-layout-js",
-        "sq--src-components-seo-js"
+        "sq--src-components-seo-js",
+        "sq--src-components-layout-js"
       ],
       "4069c0e2-043d-507c-a1f7-66c3c1950301": [
         "sq--src-components-image-js"
@@ -1870,14 +1858,6 @@
     "sq--src-components-image-js": 2829056681
   },
   "components": {
-    "/Users/migs/Sites/matthewhigley/.cache/dev-404-page.js": {
-      "componentPath": "/Users/migs/Sites/matthewhigley/.cache/dev-404-page.js",
-      "query": "",
-      "pages": [
-        "/dev-404-page/"
-      ],
-      "isInBootstrap": true
-    },
     "/Users/migs/Sites/matthewhigley/src/pages/404.js": {
       "componentPath": "/Users/migs/Sites/matthewhigley/src/pages/404.js",
       "query": "",
