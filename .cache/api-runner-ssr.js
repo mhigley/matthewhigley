@@ -3,10 +3,10 @@ var plugins = [{
       options: {"plugins":[]},
     },{
       plugin: require('/Users/migs/Sites/matthewhigley/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"minimal-ui","icon":"src/images/gatsby-icon.png"},
+      options: {"plugins":[],"name":"matthew-higley","short_name":"migs","start_url":"/","background_color":"#663399","theme_color":"#663399","display":"minimal-ui","icon":"src/images/favicon.png"},
     },{
       plugin: require('/Users/migs/Sites/matthewhigley/node_modules/gatsby-plugin-prefetch-google-fonts/gatsby-ssr'),
-      options: {"plugins":[],"fonts":[{"family":"Amatic SC","variants":["400","700"]},{"family":"Catamaran","variants":["100","200","300","400","500","600","700","800","900"]}]},
+      options: {"plugins":[],"fonts":[{"family":"Amatic SC","variants":["400"]},{"family":"Catamaran","variants":["300"]}]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

@@ -5,5 +5,5 @@
  */
 
 // You can delete this file if you're not using it
-require("./src/styles/layout.css")
-require("./src/styles/global.scss")
+require("./src/styles/layout.scss");
+require("./src/styles/global.scss");

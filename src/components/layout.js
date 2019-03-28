@@ -9,8 +9,6 @@ import React from "react";
 import PropTypes from "prop-types";
 import { StaticQuery, graphql } from "gatsby";
 
-// import "../components/fluidImageFragment"
-// import Img from "gatsby-image"
 import Image from "../components/image";
 
 import Header from "./header";

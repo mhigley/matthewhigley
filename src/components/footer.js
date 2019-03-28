@@ -1,8 +1,8 @@
-import { Link } from "gatsby"
-import PropTypes from "prop-types"
-import React from "react"
+// import { Link } from "gatsby"
+import PropTypes from "prop-types";
+import React from "react";
 
-import "@fortawesome/fontawesome-pro/css/all.css"
+import "@fortawesome/fontawesome-pro/css/all.css";
 
 const Footer = ({ siteTitle }) => (
   <footer>
@@ -15,14 +15,14 @@ const Footer = ({ siteTitle }) => (
       </div>
     </div>
   </footer>
-)
+);
 
 Footer.propTypes = {
-  siteTitle: PropTypes.string,
-}
+  siteTitle: PropTypes.string
+};
 
 Footer.defaultProps = {
-  siteTitle: ``,
-}
+  siteTitle: ``
+};
 
-export default Footer
+export default Footer;

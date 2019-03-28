@@ -659,20 +659,20 @@
         "owner": "internal-data-bridge"
       }
     },
-    "112c12f8-b222-509b-abe0-dfe93a905df9": {
+    "67b53d2c-a06b-52ae-8970-bfe57525d1fe": {
       "resolve": "/Users/migs/Sites/matthewhigley/node_modules/gatsby-plugin-manifest",
-      "id": "112c12f8-b222-509b-abe0-dfe93a905df9",
+      "id": "67b53d2c-a06b-52ae-8970-bfe57525d1fe",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.24",
       "pluginOptions": {
         "plugins": [],
-        "name": "gatsby-starter-default",
-        "short_name": "starter",
+        "name": "matthew-higley",
+        "short_name": "migs",
         "start_url": "/",
         "background_color": "#663399",
         "theme_color": "#663399",
         "display": "minimal-ui",
-        "icon": "src/images/gatsby-icon.png"
+        "icon": "src/images/favicon.png"
       },
       "nodeAPIs": [
         "onPostBootstrap"
@@ -745,14 +745,14 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "ae3fd6e5b2c281039e1d15a8441e12fe",
+        "contentDigest": "6cf716cdc57402ad9bc29ba9110882f0",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "3ce0899f-f564-5bef-875f-f1707bfe05d2": {
+    "7d82cafa-80e4-5aa9-9eda-e30e5bdedfbc": {
       "resolve": "/Users/migs/Sites/matthewhigley/node_modules/gatsby-plugin-prefetch-google-fonts",
-      "id": "3ce0899f-f564-5bef-875f-f1707bfe05d2",
+      "id": "7d82cafa-80e4-5aa9-9eda-e30e5bdedfbc",
       "name": "gatsby-plugin-prefetch-google-fonts",
       "version": "1.4.0",
       "pluginOptions": {
@@ -761,22 +761,13 @@
           {
             "family": "Amatic SC",
             "variants": [
-              "400",
-              "700"
+              "400"
             ]
           },
           {
             "family": "Catamaran",
             "variants": [
-              "100",
-              "200",
-              "300",
-              "400",
-              "500",
-              "600",
-              "700",
-              "800",
-              "900"
+              "300"
             ]
           }
         ]
@@ -1077,7 +1068,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "bea5ce805d2ea3fada84ce91e8a3f042",
+        "contentDigest": "f9e495f797ab8292acbcd2e313db214f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1165,7 +1156,7 @@
       "resolve": "/Users/migs/Sites/matthewhigley",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "eff8af325aaa52873158f91df14a6e89",
+      "version": "e42631adc73f855d82b57851f31d4133",
       "pluginOptions": {
         "plugins": []
       },
@@ -1261,7 +1252,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "46173f9a068b9aa6f9dd8d022ea59e40",
+        "contentDigest": "a9ad8b3c7d690d630a21c913fa62ce8f",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1371,18 +1362,18 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Gatsby Default Starter",
-        "description": "Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.",
-        "author": "@gatsbyjs"
+        "title": "Matthew Higley",
+        "description": "Portfolio site of Matthew Higley. Developer, designer and climber.",
+        "author": "@mhigley"
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-03-27T21:35:45.435Z",
+      "buildTime": "2019-03-28T02:51:55.251Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "5852172afc9c4595714e24ea553b3757",
+        "contentDigest": "bb0ba2537dbdecd624fce366aee1338a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1392,7 +1383,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "580cb26f33d2546b9e18846240a00886",
+        "contentDigest": "ed2ecb7e43bd027d8362b1a9e23d3990",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1401,11 +1392,11 @@
       "absolutePath": "/Users/migs/Sites/matthewhigley/src/images",
       "relativePath": "",
       "extension": "",
-      "size": 160,
-      "prettySize": "160 B",
-      "modifiedTime": "2019-03-27T18:37:18.934Z",
-      "accessTime": "2019-03-27T21:35:47.360Z",
-      "changeTime": "2019-03-27T21:20:47.955Z",
+      "size": 192,
+      "prettySize": "192 B",
+      "modifiedTime": "2019-03-28T02:46:58.791Z",
+      "accessTime": "2019-03-28T02:51:58.381Z",
+      "changeTime": "2019-03-28T02:46:58.791Z",
       "birthTime": "2019-03-27T17:30:07.619Z",
       "root": "/",
       "dir": "/Users/migs/Sites/matthewhigley/src",
@@ -1415,21 +1406,68 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 5,
+      "nlink": 6,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 10765213,
       "blocks": 0,
-      "atimeMs": 1553722547359.6128,
-      "mtimeMs": 1553711838934.4304,
-      "ctimeMs": 1553721647955.043,
+      "atimeMs": 1553741518380.5708,
+      "mtimeMs": 1553741218791.3708,
+      "ctimeMs": 1553741218791.3708,
       "birthtimeMs": 1553707807619.2913,
-      "atime": "2019-03-27T21:35:47.360Z",
-      "mtime": "2019-03-27T18:37:18.934Z",
-      "ctime": "2019-03-27T21:20:47.955Z",
+      "atime": "2019-03-28T02:51:58.381Z",
+      "mtime": "2019-03-28T02:46:58.791Z",
+      "ctime": "2019-03-28T02:46:58.791Z",
       "birthtime": "2019-03-27T17:30:07.619Z"
+    },
+    "4cc315a1-07bc-581d-a823-3ed8346891ad": {
+      "id": "4cc315a1-07bc-581d-a823-3ed8346891ad",
+      "children": [
+        "80528242-3d01-5e6e-a429-f85635389792"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "941cd2f402b075d71bc7a1ab6f8be05d",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/favicon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/migs/Sites/matthewhigley/src/images/favicon.png",
+      "relativePath": "favicon.png",
+      "extension": "png",
+      "size": 4295,
+      "prettySize": "4.29 kB",
+      "modifiedTime": "2019-03-28T02:46:58.792Z",
+      "accessTime": "2019-03-28T02:51:58.316Z",
+      "changeTime": "2019-03-28T02:46:58.792Z",
+      "birthTime": "2019-03-28T02:46:50.704Z",
+      "root": "/",
+      "dir": "/Users/migs/Sites/matthewhigley/src/images",
+      "base": "favicon.png",
+      "ext": ".png",
+      "name": "favicon",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 10940278,
+      "blocks": 16,
+      "atimeMs": 1553741518315.7354,
+      "mtimeMs": 1553741218792,
+      "ctimeMs": 1553741218792.0198,
+      "birthtimeMs": 1553741210704.0776,
+      "atime": "2019-03-28T02:51:58.316Z",
+      "mtime": "2019-03-28T02:46:58.792Z",
+      "ctime": "2019-03-28T02:46:58.792Z",
+      "birthtime": "2019-03-28T02:46:50.704Z"
     },
     "686d784d-598d-5310-9f27-f0c095e61038": {
       "id": "686d784d-598d-5310-9f27-f0c095e61038",
@@ -1451,7 +1489,7 @@
       "size": 21212,
       "prettySize": "21.2 kB",
       "modifiedTime": "2019-03-27T17:30:07.620Z",
-      "accessTime": "2019-03-27T21:20:48.039Z",
+      "accessTime": "2019-03-28T02:51:58.316Z",
       "changeTime": "2019-03-27T21:20:47.955Z",
       "birthTime": "2019-03-27T17:30:07.620Z",
       "root": "/",
@@ -1469,14 +1507,24 @@
       "blksize": 4096,
       "ino": 10765216,
       "blocks": 48,
-      "atimeMs": 1553721648038.9382,
+      "atimeMs": 1553741518315.7676,
       "mtimeMs": 1553707807620.307,
       "ctimeMs": 1553721647954.9524,
       "birthtimeMs": 1553707807620.1604,
-      "atime": "2019-03-27T21:20:48.039Z",
+      "atime": "2019-03-28T02:51:58.316Z",
       "mtime": "2019-03-27T17:30:07.620Z",
       "ctime": "2019-03-27T21:20:47.955Z",
       "birthtime": "2019-03-27T17:30:07.620Z"
+    },
+    "80528242-3d01-5e6e-a429-f85635389792": {
+      "id": "80528242-3d01-5e6e-a429-f85635389792",
+      "children": [],
+      "parent": "4cc315a1-07bc-581d-a823-3ed8346891ad",
+      "internal": {
+        "contentDigest": "941cd2f402b075d71bc7a1ab6f8be05d",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "005eadbe-9893-5a38-af04-2aafa60fbfb6": {
       "id": "005eadbe-9893-5a38-af04-2aafa60fbfb6",
@@ -1508,7 +1556,7 @@
       "size": 167273,
       "prettySize": "167 kB",
       "modifiedTime": "2019-03-27T17:30:07.620Z",
-      "accessTime": "2019-03-27T21:20:48.039Z",
+      "accessTime": "2019-03-28T02:51:58.316Z",
       "changeTime": "2019-03-27T21:20:47.955Z",
       "birthTime": "2019-03-27T17:30:07.619Z",
       "root": "/",
@@ -1526,11 +1574,11 @@
       "blksize": 4096,
       "ino": 10765215,
       "blocks": 328,
-      "atimeMs": 1553721648038.684,
+      "atimeMs": 1553741518315.7542,
       "mtimeMs": 1553707807620.0823,
       "ctimeMs": 1553721647954.5034,
       "birthtimeMs": 1553707807619.3313,
-      "atime": "2019-03-27T21:20:48.039Z",
+      "atime": "2019-03-28T02:51:58.316Z",
       "mtime": "2019-03-27T17:30:07.620Z",
       "ctime": "2019-03-27T21:20:47.955Z",
       "birthtime": "2019-03-27T17:30:07.619Z"
@@ -1565,7 +1613,7 @@
       "size": 338988,
       "prettySize": "339 kB",
       "modifiedTime": "2019-03-27T18:37:18.934Z",
-      "accessTime": "2019-03-27T21:20:48.039Z",
+      "accessTime": "2019-03-28T02:51:58.316Z",
       "changeTime": "2019-03-27T21:20:47.954Z",
       "birthTime": "2019-03-27T18:36:42.264Z",
       "root": "/",
@@ -1583,11 +1631,11 @@
       "blksize": 4096,
       "ino": 10765214,
       "blocks": 664,
-      "atimeMs": 1553721648038.5632,
+      "atimeMs": 1553741518315.7246,
       "mtimeMs": 1553711838934,
       "ctimeMs": 1553721647954.0308,
       "birthtimeMs": 1553711802263.6304,
-      "atime": "2019-03-27T21:20:48.039Z",
+      "atime": "2019-03-28T02:51:58.316Z",
       "mtime": "2019-03-27T18:37:18.934Z",
       "ctime": "2019-03-27T21:20:47.954Z",
       "birthtime": "2019-03-27T18:36:42.264Z"
@@ -1689,19 +1737,17 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "951cf2ef2b7693abe782490c97e85fc4"
+    "PLUGINS_HASH": "1a507d005db93018bc677803c4bcb15a"
   },
   "componentDataDependencies": {
     "nodes": {
       "Site": [
-        "sq--src-components-seo-js",
-        "sq--src-components-layout-js"
+        "sq--src-components-layout-js",
+        "sq--src-components-seo-js"
       ],
-      "2d0670cc-8a7e-5bc8-97e1-b32eb1e644a3": [],
       "4069c0e2-043d-507c-a1f7-66c3c1950301": [
         "sq--src-components-image-js"
       ],
-      "c6f97b0b-33fa-5d02-9e1f-b818c257f2dc": [],
       "32800b71-06cc-550f-9d52-b18acdabe6fc": [
         "sq--src-components-image-js"
       ]
@@ -1746,14 +1792,6 @@
     }
   },
   "staticQueryComponents": {
-    "sq--src-components-image-js": {
-      "name": "usersMigsSitesMatthewhigleySrcComponentsImageJs2829056681",
-      "componentPath": "/Users/migs/Sites/matthewhigley/src/components/image.js",
-      "id": "sq--src-components-image-js",
-      "jsonName": "sq--src-components-image-js",
-      "query": "query usersMigsSitesMatthewhigleySrcComponentsImageJs2829056681 {\n  backgroundImage: file(relativePath: {eq: \"background-image.jpg\"}) {\n    childImageSharp {\n      fluid(maxWidth: 1000) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
-      "hash": 2829056681
-    },
     "sq--src-components-layout-js": {
       "name": "SiteQuery",
       "componentPath": "/Users/migs/Sites/matthewhigley/src/components/layout.js",
@@ -1769,6 +1807,14 @@
       "jsonName": "sq--src-components-seo-js",
       "query": "query usersMigsSitesMatthewhigleySrcComponentsSeoJs2417117884 {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
       "hash": 2417117884
+    },
+    "sq--src-components-image-js": {
+      "name": "usersMigsSitesMatthewhigleySrcComponentsImageJs2829056681",
+      "componentPath": "/Users/migs/Sites/matthewhigley/src/components/image.js",
+      "id": "sq--src-components-image-js",
+      "jsonName": "sq--src-components-image-js",
+      "query": "query usersMigsSitesMatthewhigleySrcComponentsImageJs2829056681 {\n  backgroundImage: file(relativePath: {eq: \"background-image.jpg\"}) {\n    childImageSharp {\n      fluid(maxWidth: 1000) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 2829056681
     }
   }
 }
