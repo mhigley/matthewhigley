@@ -37,12 +37,18 @@
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
     "function": "node packageScript.js",
+    "version:major": "npm version major",
+    "version:minor": "npm version minor",
     "version:patch": "npm version patch",
     "gatsby:build": "gatsby build",
     "git:add": "git add .",
-    "git:commit": "git commit -m \"patch $npm_package_version update\"",
+    "git:commit:major": "git commit -m \"major $npm_package_version update\"",
+    "git:commit:minor": "git commit -m \"minor $npm_package_version update\"",
+    "git:commit:patch": "git commit -m \"patch $npm_package_version update\"",
     "git:push": "git push",
-    "netlify": "npm run gatsby:build && npm run git:add && npm run git:commit && npm run version:patch && npm run git:push"
+    "netlify:major": "npm run gatsby:build && npm run git:add && npm run git:commit:major && npm run version:patch && npm run git:push",
+    "netlify:minor": "npm run gatsby:build && npm run git:add && npm run git:commit:minor && npm run version:patch && npm run git:push",
+    "netlify:patch": "npm run gatsby:build && npm run git:add && npm run git:commit:patch && npm run version:patch && npm run git:push"
   },
   "repository": {
     "type": "git",
