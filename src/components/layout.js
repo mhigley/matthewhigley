@@ -21,6 +21,7 @@ const Layout = ({ children }) => (
         site {
           siteMetadata {
             title
+            url
           }
         }
       }
@@ -34,7 +35,7 @@ const Layout = ({ children }) => (
           }}
         >
           {children}
-          <Footer siteTitle={data.site.siteMetadata.title} />
+          <Footer siteUrl={data.site.siteMetadata.url} />
         </main>
         <Image />
       </>

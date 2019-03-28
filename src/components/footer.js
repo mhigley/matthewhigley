@@ -4,11 +4,11 @@ import React from "react";
 
 import "@fortawesome/fontawesome-pro/css/all.css";
 
-const Footer = ({ siteTitle }) => (
+const Footer = ({ siteUrl }) => (
   <footer>
     <div className="container">
       <div>
-        © {new Date().getFullYear()} {siteTitle}, Built with{" "}
+        © {new Date().getFullYear()} {siteUrl}. Built with{" "}
         <i className="fal fa-heart" /> and <i className="fal fa-coffee" />
         {` `}
         {/* <a href="https://www.gatsbyjs.org">Gatsby</a> */}
@@ -18,11 +18,11 @@ const Footer = ({ siteTitle }) => (
 );
 
 Footer.propTypes = {
-  siteTitle: PropTypes.string
+  siteUrl: PropTypes.string
 };
 
 Footer.defaultProps = {
-  siteTitle: ``
+  siteUrl: ``
 };
 
 export default Footer;

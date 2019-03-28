@@ -1156,7 +1156,7 @@
       "resolve": "/Users/migs/Sites/matthewhigley",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "e42631adc73f855d82b57851f31d4133",
+      "version": "3a735f14e4b15923a6bbfd8a27b3ac99",
       "pluginOptions": {
         "plugins": []
       },
@@ -1252,7 +1252,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "a9ad8b3c7d690d630a21c913fa62ce8f",
+        "contentDigest": "fca70d7bc581adfe9a4bcc9a9062e903",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1363,17 +1363,18 @@
     "Site": {
       "siteMetadata": {
         "title": "Matthew Higley",
+        "url": "matthewhigley.com",
         "description": "Portfolio site of Matthew Higley. Developer, designer and climber.",
         "author": "@mhigley"
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-03-28T03:06:43.349Z",
+      "buildTime": "2019-03-28T17:50:21.343Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "6c30724f3df5e8dc97f21601e5ccf3cb",
+        "contentDigest": "94c1f8d91f52d0ef7ae8fef449445d9c",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1383,7 +1384,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "c6e89bcdbec95f05b6bab2c6da12ead7",
+        "contentDigest": "bbe62c61dd2ca734e954b9bbc762ead6",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1395,7 +1396,7 @@
       "size": 192,
       "prettySize": "192 B",
       "modifiedTime": "2019-03-28T02:46:58.791Z",
-      "accessTime": "2019-03-28T03:06:45.464Z",
+      "accessTime": "2019-03-28T17:50:25.826Z",
       "changeTime": "2019-03-28T02:46:58.791Z",
       "birthTime": "2019-03-27T17:30:07.619Z",
       "root": "/",
@@ -1413,11 +1414,11 @@
       "blksize": 4096,
       "ino": 10765213,
       "blocks": 0,
-      "atimeMs": 1553742405463.7837,
+      "atimeMs": 1553795425825.8525,
       "mtimeMs": 1553741218791.3708,
       "ctimeMs": 1553741218791.3708,
       "birthtimeMs": 1553707807619.2913,
-      "atime": "2019-03-28T03:06:45.464Z",
+      "atime": "2019-03-28T17:50:25.826Z",
       "mtime": "2019-03-28T02:46:58.791Z",
       "ctime": "2019-03-28T02:46:58.791Z",
       "birthtime": "2019-03-27T17:30:07.619Z"
@@ -1442,7 +1443,7 @@
       "size": 4295,
       "prettySize": "4.29 kB",
       "modifiedTime": "2019-03-28T02:46:58.792Z",
-      "accessTime": "2019-03-28T02:51:58.316Z",
+      "accessTime": "2019-03-28T02:52:27.273Z",
       "changeTime": "2019-03-28T02:46:58.792Z",
       "birthTime": "2019-03-28T02:46:50.704Z",
       "root": "/",
@@ -1460,14 +1461,24 @@
       "blksize": 4096,
       "ino": 10940278,
       "blocks": 16,
-      "atimeMs": 1553741518315.7354,
+      "atimeMs": 1553741547273.4553,
       "mtimeMs": 1553741218792,
       "ctimeMs": 1553741218792.0198,
       "birthtimeMs": 1553741210704.0776,
-      "atime": "2019-03-28T02:51:58.316Z",
+      "atime": "2019-03-28T02:52:27.273Z",
       "mtime": "2019-03-28T02:46:58.792Z",
       "ctime": "2019-03-28T02:46:58.792Z",
       "birthtime": "2019-03-28T02:46:50.704Z"
+    },
+    "80528242-3d01-5e6e-a429-f85635389792": {
+      "id": "80528242-3d01-5e6e-a429-f85635389792",
+      "children": [],
+      "parent": "4cc315a1-07bc-581d-a823-3ed8346891ad",
+      "internal": {
+        "contentDigest": "941cd2f402b075d71bc7a1ab6f8be05d",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "686d784d-598d-5310-9f27-f0c095e61038": {
       "id": "686d784d-598d-5310-9f27-f0c095e61038",
@@ -1489,7 +1500,7 @@
       "size": 21212,
       "prettySize": "21.2 kB",
       "modifiedTime": "2019-03-27T17:30:07.620Z",
-      "accessTime": "2019-03-28T02:51:58.316Z",
+      "accessTime": "2019-03-27T21:23:07.970Z",
       "changeTime": "2019-03-27T21:20:47.955Z",
       "birthTime": "2019-03-27T17:30:07.620Z",
       "root": "/",
@@ -1507,24 +1518,14 @@
       "blksize": 4096,
       "ino": 10765216,
       "blocks": 48,
-      "atimeMs": 1553741518315.7676,
+      "atimeMs": 1553721787969.76,
       "mtimeMs": 1553707807620.307,
       "ctimeMs": 1553721647954.9524,
       "birthtimeMs": 1553707807620.1604,
-      "atime": "2019-03-28T02:51:58.316Z",
+      "atime": "2019-03-27T21:23:07.970Z",
       "mtime": "2019-03-27T17:30:07.620Z",
       "ctime": "2019-03-27T21:20:47.955Z",
       "birthtime": "2019-03-27T17:30:07.620Z"
-    },
-    "80528242-3d01-5e6e-a429-f85635389792": {
-      "id": "80528242-3d01-5e6e-a429-f85635389792",
-      "children": [],
-      "parent": "4cc315a1-07bc-581d-a823-3ed8346891ad",
-      "internal": {
-        "contentDigest": "941cd2f402b075d71bc7a1ab6f8be05d",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "005eadbe-9893-5a38-af04-2aafa60fbfb6": {
       "id": "005eadbe-9893-5a38-af04-2aafa60fbfb6",
@@ -1556,7 +1557,7 @@
       "size": 167273,
       "prettySize": "167 kB",
       "modifiedTime": "2019-03-27T17:30:07.620Z",
-      "accessTime": "2019-03-28T02:51:58.316Z",
+      "accessTime": "2019-03-27T21:23:07.970Z",
       "changeTime": "2019-03-27T21:20:47.955Z",
       "birthTime": "2019-03-27T17:30:07.619Z",
       "root": "/",
@@ -1574,11 +1575,11 @@
       "blksize": 4096,
       "ino": 10765215,
       "blocks": 328,
-      "atimeMs": 1553741518315.7542,
+      "atimeMs": 1553721787969.7273,
       "mtimeMs": 1553707807620.0823,
       "ctimeMs": 1553721647954.5034,
       "birthtimeMs": 1553707807619.3313,
-      "atime": "2019-03-28T02:51:58.316Z",
+      "atime": "2019-03-27T21:23:07.970Z",
       "mtime": "2019-03-27T17:30:07.620Z",
       "ctime": "2019-03-27T21:20:47.955Z",
       "birthtime": "2019-03-27T17:30:07.619Z"
@@ -1613,7 +1614,7 @@
       "size": 338988,
       "prettySize": "339 kB",
       "modifiedTime": "2019-03-27T18:37:18.934Z",
-      "accessTime": "2019-03-28T02:51:58.316Z",
+      "accessTime": "2019-03-27T21:23:07.970Z",
       "changeTime": "2019-03-27T21:20:47.954Z",
       "birthTime": "2019-03-27T18:36:42.264Z",
       "root": "/",
@@ -1631,11 +1632,11 @@
       "blksize": 4096,
       "ino": 10765214,
       "blocks": 664,
-      "atimeMs": 1553741518315.7246,
+      "atimeMs": 1553721787969.6868,
       "mtimeMs": 1553711838934,
       "ctimeMs": 1553721647954.0308,
       "birthtimeMs": 1553711802263.6304,
-      "atime": "2019-03-28T02:51:58.316Z",
+      "atime": "2019-03-27T21:23:07.970Z",
       "mtime": "2019-03-27T18:37:18.934Z",
       "ctime": "2019-03-27T21:20:47.954Z",
       "birthtime": "2019-03-27T18:36:42.264Z"
@@ -1737,7 +1738,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "1a507d005db93018bc677803c4bcb15a"
+    "PLUGINS_HASH": "8bc3ac94104275a7f3c8a75b430909df"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -1761,7 +1762,7 @@
     "index": "140/path---index-6a9-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "page-2-fbc": "726/path---page-2-fbc-5a8-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "sq--src-components-layout-js": 1096028375,
+    "sq--src-components-layout-js": 4267810845,
     "sq--src-components-image-js": 2829056681
   },
   "components": {
@@ -1792,13 +1793,13 @@
     }
   },
   "staticQueryComponents": {
-    "sq--src-components-layout-js": {
-      "name": "SiteQuery",
-      "componentPath": "/Users/migs/Sites/matthewhigley/src/components/layout.js",
-      "id": "sq--src-components-layout-js",
-      "jsonName": "sq--src-components-layout-js",
-      "query": "query SiteQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
-      "hash": 1096028375
+    "sq--src-components-image-js": {
+      "name": "usersMigsSitesMatthewhigleySrcComponentsImageJs2829056681",
+      "componentPath": "/Users/migs/Sites/matthewhigley/src/components/image.js",
+      "id": "sq--src-components-image-js",
+      "jsonName": "sq--src-components-image-js",
+      "query": "query usersMigsSitesMatthewhigleySrcComponentsImageJs2829056681 {\n  backgroundImage: file(relativePath: {eq: \"background-image.jpg\"}) {\n    childImageSharp {\n      fluid(maxWidth: 1000) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 2829056681
     },
     "sq--src-components-seo-js": {
       "name": "usersMigsSitesMatthewhigleySrcComponentsSeoJs2417117884",
@@ -1808,13 +1809,13 @@
       "query": "query usersMigsSitesMatthewhigleySrcComponentsSeoJs2417117884 {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
       "hash": 2417117884
     },
-    "sq--src-components-image-js": {
-      "name": "usersMigsSitesMatthewhigleySrcComponentsImageJs2829056681",
-      "componentPath": "/Users/migs/Sites/matthewhigley/src/components/image.js",
-      "id": "sq--src-components-image-js",
-      "jsonName": "sq--src-components-image-js",
-      "query": "query usersMigsSitesMatthewhigleySrcComponentsImageJs2829056681 {\n  backgroundImage: file(relativePath: {eq: \"background-image.jpg\"}) {\n    childImageSharp {\n      fluid(maxWidth: 1000) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
-      "hash": 2829056681
+    "sq--src-components-layout-js": {
+      "name": "SiteQuery",
+      "componentPath": "/Users/migs/Sites/matthewhigley/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteQuery {\n  site {\n    siteMetadata {\n      title\n      url\n    }\n  }\n}\n",
+      "hash": 4267810845
     }
   }
 }
