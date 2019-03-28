@@ -46,8 +46,8 @@
     "git:commit:minor": "git commit -m \"minor $npm_package_version update\"",
     "git:commit:patch": "git commit -m \"patch $npm_package_version update\"",
     "git:push": "git push",
-    "netlify:major": "npm run gatsby:build && npm run git:add && npm run git:commit:major && npm run version:patch && npm run git:push",
-    "netlify:minor": "npm run gatsby:build && npm run git:add && npm run git:commit:minor && npm run version:patch && npm run git:push",
+    "netlify:major": "npm run gatsby:build && npm run git:add && npm run git:commit:major && npm run version:major && npm run git:push",
+    "netlify:minor": "npm run gatsby:build && npm run git:add && npm run git:commit:minor && npm run version:minor && npm run git:push",
     "netlify:patch": "npm run gatsby:build && npm run git:add && npm run git:commit:patch && npm run version:patch && npm run git:push"
   },
   "repository": {
