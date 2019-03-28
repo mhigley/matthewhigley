@@ -6,6 +6,14 @@ module.exports = {
     author: `@mhigley`
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-gtag`,
+      options: {
+        trackingId: `UA-137231638-1`,
+        head: true,
+        anonymize: false
+      }
+    },
     `gatsby-plugin-react-helmet`,
     {
       resolve: `gatsby-source-filesystem`,
