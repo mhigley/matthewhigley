@@ -31,14 +31,18 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
-    "netlify": "gatsby build; git add .",
     "develop": "gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
     "function": "node packageScript.js",
-    "version:patch": "npm version patch"
+    "version:patch": "npm version patch",
+    "gatsby:build": "gatsby build",
+    "git:add": "git add .",
+    "git:commit": "git commit -m '$version'",
+    "git:push": "git push",
+    "netlify": "npm run gatsby:build && npm run git:add && npm run git:commit && npm run version:patch && npm run git:push"
   },
   "repository": {
     "type": "git",
